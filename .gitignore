@@ -1,3 +1,6 @@
+# Project specific
+balboa\balboa\settings.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -53,7 +56,6 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-settings.py
 
 # Flask stuff:
 instance/
